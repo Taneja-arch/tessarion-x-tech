@@ -30,3 +30,13 @@ This live site is designed to:
 | Dev Tools  | ESLint, Prettier, Husky, GitHub Actions  |
 
 ## 📁 Project Structure
+/public         → Static assets, 3D models, icons /src /components   → UI modules and shared components /pages        → Website routes and dynamic views /api          → Backend endpoints (auth, user, data) /styles       → Global Tailwind + theme config /utils        → Helper functions and constants /config         → App config, env variables /scripts        → Deployment and maintenance scripts
+
+## 🔐 Features
+
+- ✅ Secure User Authentication (JWT + 2FA)
+- 🚘 EV & Home Product Configurators
+- 🧠 AI Clone Protection for User Data
+- 🌍 Interactive 3D/AR Visualizations
+- 💼 Investor Portal + Grant Application System
+- 📊 Admin Dashboard (Real-time analytics)
