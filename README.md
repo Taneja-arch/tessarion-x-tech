@@ -40,3 +40,67 @@ This live site is designed to:
 - 🌍 Interactive 3D/AR Visualizations
 - 💼 Investor Portal + Grant Application System
 - 📊 Admin Dashboard (Real-time analytics)
+
+
+---
+
+### ✅ `CODE_OF_CONDUCT.md`
+
+```markdown
+# 🌐 Code of Conduct
+
+## Our Pledge
+
+We as contributors and maintainers of Tessarion-X Tech-Inc pledge to make participation in our project and community a harassment-free experience for everyone, regardless of:
+
+- Age
+- Body size
+- Disability
+- Ethnicity
+- Gender identity and expression
+- Level of experience
+- Nationality
+- Personal appearance
+- Race
+- Religion
+- Sexual identity and orientation
+- Socioeconomic status
+
+We commit to creating a space that is safe, respectful, and inclusive.
+
+---
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment:
+
+- 💬 Use welcoming and inclusive language
+- 🤝 Respect differing viewpoints and experiences
+- 🧠 Offer constructive criticism with empathy
+- 🙌 Accept responsibility and apologize when needed
+
+Examples of unacceptable behavior:
+
+- ❌ Harassment, trolling, or discriminatory remarks
+- ❌ Public or private intimidation or abuse
+- ❌ Publishing others' private information
+- ❌ Disruptive or aggressive conduct in discussions
+
+---
+
+## Enforcement
+
+Instances of abusive behavior may be reported by contacting us at:
+
+📬 **conduct@tessarionx.com**
+
+All reports are confidential and will be reviewed fairly.
+
+---
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+—
+Tessarion-X Tech-Inc Governance Team
